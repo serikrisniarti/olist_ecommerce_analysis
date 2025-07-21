@@ -30,22 +30,26 @@ olist_products_dataset
 
 ### 📈 Analysis & Visualizations
 **Sales Trend**
+
 <img width="922" height="614" alt="Sales Trends" src="https://github.com/user-attachments/assets/8433d97c-60bf-4472-b967-36395fa9ec39" />
 
 **Customer Satisfaction**
+
 <img width="1382" height="524" alt="Customer Satisfaction" src="https://github.com/user-attachments/assets/d6a7f0cc-aa5b-4361-bfcb-0cb80963f269" />
 
 **Seller Performance**
+
 <img width="778" height="631" alt="Seller Performance" src="https://github.com/user-attachments/assets/021b91aa-e1d6-48d8-ad52-d0514f9f64ef" />
 
 **Order Pattern**
+
 <img width="1003" height="746" alt="image" src="https://github.com/user-attachments/assets/02ff02f0-4e5f-4af0-95db-a937cc9c026d" />
 
 ### 📌 Key Insights
-📉 Certain months show declining orders → optimize campaigns during low season.
-🏙️ Major sales come from a few key cities → focus logistics and marketing efforts there.
-💳 A few payment methods dominate → ensure seamless experience for those.
-⭐ Low review scores often correlate with longer shipping times and higher freight charges → improve logistics and pricing strategy.
+- Certain months show declining orders → optimize campaigns during low season.
+- Major sales come from a few key cities → focus logistics and marketing efforts there.
+- A few payment methods dominate → ensure seamless experience for those.
+- Low review scores often correlate with longer shipping times and higher freight charges → improve logistics and pricing strategy.
 
 ### 🚀 Recommendations
 - Enhance logistics efficiency to reduce shipping delays and freight costs.
